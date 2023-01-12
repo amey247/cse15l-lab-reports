@@ -1,1 +1,1 @@
-Hello, world!
+Hey, I'm Amey and I am excited to be an Engineering Triton!
