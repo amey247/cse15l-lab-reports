@@ -1,1 +1,1 @@
-Hey, I'm Amey and I am excited to be an Engineering Triton!
+Hey, I'm Amey, and I am excited to be an Engineering Triton!
