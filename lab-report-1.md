@@ -23,3 +23,5 @@ Step 3: Trying Some Commands
 ![](Lab1Screenshot3.png)
 
 I have tried a variety of commands including ls, which displays the list of current items, and cd, which changes the directory to a different folder. I also used pwd as needed to check my current directory for eased file navigation, and when I tried to access a different user's home directory, the remote server's security settings denied me access.
+
+After running these commands, I have learned that switching between different files is very easy since it simply uses cd and the filepath for the destination. I also noticed that some commands which involve only internal operations do not produce output like cd. However, commands which are supposed to interact with the user like ls, which conveys a list of all files in the directory, produce output for the user.
