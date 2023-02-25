@@ -32,7 +32,7 @@ class Handler implements URLHandler {
 
 class StringServer {
     public static void main(String[] args) throws IOException {
-        if(args.length == 0){
+        if (args.length == 0) {
             System.out.println("Missing port number! Try any number between 1024 to 49151");
             return;
         }
@@ -65,7 +65,7 @@ The input {4, 8, 16} causes the method to fail the JUnit test:
 
 ```java
 @Test
-public void testReverseInPlace() {
+public void testReverseInPlace()    {
     int[] input = {4, 8, 16};
     ArrayExamples.reverseInPlace(input);
     assertArrayEquals(new int[]{16, 8, 4}, input2);
@@ -76,7 +76,7 @@ An input of a single-element array containing the integer 3, on the other hand, 
 
 ```java
 @Test
-public void testReverseInPlace() {
+public void testReverseInPlace()    {
     int[] input1 = {3};
     ArrayExamples.reverseInPlace(input1);
     assertArrayEquals(new int[]{3}, input1);
