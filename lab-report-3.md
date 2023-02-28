@@ -60,4 +60,6 @@ A second example of this command option is depicted below:
 Here, the -X ensures that the contents of the inputted file WhatToGreek.txt are saved onto the terminal window even after exiting the file and returning to the command line.
 
 ---
-For my research on all of those four command-line options for less, I referred to the website https://phoenixnap.com/kb/less-command-in-linux.
+For my research on all of those four command-line options for less, I referred to only one website, with its link below.
+
+[Source](https://phoenixnap.com/kb/less-command-in-linux)
