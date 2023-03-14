@@ -47,6 +47,7 @@ A second example of this command option is depicted below:
 
 Here, the -s ensures that the inputted file HistoryEdinburgh.txt is opened with all instances of multiple consecutive blank lines merged into a single line.
 
+---
 The fourth option I chose is less -X followed by filename. An example of this is depicted below:
 
 ![](Lab3Screenshot13.png)
